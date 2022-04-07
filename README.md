@@ -16,11 +16,11 @@ Load’s APIS
    "weight": 7782
    }
 
-Response:loads details added successfully
+Response:sucess
 
 2. GET “/load”
 
-Query params - (shipperId)
+Query params - (shipperID)
 
 Response:list of loads with this shipperId
 
@@ -37,5 +37,5 @@ Response:list of loads with this shipperId
 “Date” : “dd-mm-yyyy”
 }
 5. DELETE “load/{loadId}”
-6. GetALL "/loads"
+6. Get ALL Values "/loads"
 
